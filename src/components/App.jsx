@@ -55,7 +55,6 @@ export class App extends React.Component {
 
   
   render() { 
-    console.log('Render Complete')
     return(
     <div className={css.container}>
     <h1 className={css.bookTitle}>Phonebook</h1>
